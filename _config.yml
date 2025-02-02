@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Parbat Budha"
+  pronouns         : # example: "he/him"
+  bio              : "Ariticial Intelligence graduate student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Kathmandu University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pb1920.ml@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
+  kaggle           : "pbudha"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
