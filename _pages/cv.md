@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech in Artificial Intellegence, Kathmandu University, 2027 (Expected)
+* B.E. in Software Engineering,Pokhara University, 2025(Expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Project Manager: March 15 2023 - Currently
+  * Thanka Digital
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,12 +33,26 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python, C++
+* Deep Learning
+  * Pytorch(advanced)
+  * Keras
+  * Tensorflow
+* Machine Learning
+  * Scikit-Learn
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Seaborn
+  * MLflow
+* Miscellaneous
+  * LaTeX
+  * Git
+  * Bash
+  * Jira
+  * Linux
+  * AWS
 
 Publications
 ======
@@ -61,4 +74,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Central Committe member of UML CPN
