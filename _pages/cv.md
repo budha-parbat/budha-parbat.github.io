@@ -17,20 +17,8 @@ Education
 Work experience
 ======
 * Project Manager: March 15 2023 - Currently
-  * Thanka Digital
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Leapfrog Technology
+    
 Skills
 ======
 * Programming Language
@@ -74,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Central Committe member of UML CPN
+* Lead a managing team at OORZA
