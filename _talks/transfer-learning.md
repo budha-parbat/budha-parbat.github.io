@@ -1,11 +1,11 @@
 ---
-title: "The power of transfer Learning"
+title: "None"
 collection: talks
 type: "TEDx"
 permalink: /talks/transfer-learning
-venue: "Maitighar,TEDxMaitighar "
+venue: "None "
 date: "2024-6-15"
-location: "Maitighar, Kathmandu"
+location: "None"
 ---
 
 About Talks:
