@@ -1,14 +1,14 @@
 ---
-title: "Artificial Intelligence"
-collection: teaching
+title: "None"
+collection:
 type: "Semester Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Kathmandu University, Computer Engineering"
+venue: "None"
 date: 2025-12-01
-location: "Dhulikhel, Nepal"
+location: "None"
 ---
 
-Taught undergraduate Course covering fundamentals of AI theory and applications
+html
 
 Heading 1
 ======
