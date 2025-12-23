@@ -11,36 +11,26 @@ redirect_from:
 
 Education
 ======
-* M.Tech in Artificial Intellegence, Kathmandu University, 2027 (Expected)
-* B.E. in Software Engineering,Pokhara University, 2025(Expected)
+* B.E. in Software Engineering,Gandaki College of Engineering and Science, AUG 2025
 
 Work experience
 ======
-* Project Manager: March 15 2023 - Currently
-  * Leapfrog Technology
-    
+*None
 Skills
 ======
 * Programming Language
   * Python, C++
-* Deep Learning
-  * Pytorch(advanced)
-  * Keras
+* Deep Learning 
   * Tensorflow
 * Machine Learning
   * Scikit-Learn
   * Numpy
   * Pandas
   * Matplotlib
-  * Seaborn
-  * MLflow
 * Miscellaneous
   * LaTeX
   * Git
-  * Bash
   * Jira
-  * Linux
-  * AWS
 
 Publications
 ======
