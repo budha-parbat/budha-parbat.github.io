@@ -21,4 +21,4 @@ Research Interests
 
 News
 ======
-* MAY 2025 : Shortlisted for Fusemachines AI Fellowship and fuseAI Scholarship.
+* none
