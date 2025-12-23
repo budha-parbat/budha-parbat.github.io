@@ -52,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Lead a managing team at OORZA
+* none
